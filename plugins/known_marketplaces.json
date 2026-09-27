@@ -1,0 +1,26 @@
+{
+  "claude-plugins-official": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/claude-plugins-official"
+    },
+    "installLocation": "C:\\Users\\lakshya_new\\.claude\\plugins\\marketplaces\\claude-plugins-official",
+    "lastUpdated": "2026-06-11T04:36:55.233Z"
+  },
+  "superpowers-marketplace": {
+    "source": {
+      "source": "github",
+      "repo": "obra/superpowers-marketplace"
+    },
+    "installLocation": "C:\\Users\\lakshya_new\\.claude\\plugins\\marketplaces\\superpowers-marketplace",
+    "lastUpdated": "2026-06-08T06:34:36.903Z"
+  },
+  "context-mode": {
+    "source": {
+      "source": "github",
+      "repo": "mksglu/context-mode"
+    },
+    "installLocation": "C:\\Users\\lakshya_new\\.claude\\plugins\\marketplaces\\context-mode",
+    "lastUpdated": "2026-06-09T15:08:06.138Z"
+  }
+}

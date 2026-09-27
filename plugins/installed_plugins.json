@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "plugins": {
+    "superpowers@superpowers-marketplace": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\lakshya_new\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\5.1.0",
+        "version": "5.1.0",
+        "installedAt": "2026-06-08T06:35:01.160Z",
+        "lastUpdated": "2026-06-08T06:35:01.160Z",
+        "gitCommitSha": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+      }
+    ],
+    "context-mode@context-mode": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\lakshya_new\\.claude\\plugins\\cache\\context-mode\\context-mode\\1.0.162",
+        "version": "1.0.162",
+        "installedAt": "2026-06-09T15:08:24.529Z",
+        "lastUpdated": "2026-09-24T11:49:52.040Z",
+        "gitCommitSha": "535c367cd72e923481068337e331ee06c2c0f7b0"
+      }
+    ]
+  },
+  "enabledPlugins": {
+    "context-mode@context-mode": true
+  }
+}
